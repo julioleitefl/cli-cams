@@ -6,6 +6,6 @@ idna==3.7
 packaging==24.0
 pyasn1==0.6.0
 PySimpleGUI==5.0.4
-requests==2.31.0
+requests==2.32.2
 rsa==4.9
 urllib3==2.2.1
